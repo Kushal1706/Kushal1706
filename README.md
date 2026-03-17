@@ -6,8 +6,8 @@
 ### 👨‍💻 About Me
 
 🎓 Computer Science Undergraduate from Bangalore  
-💻 MERN Stack Developer passionate about building scalable web applications
-🎯 Focusing Mainly on the Frontend Learning as a fresher/Junior Development Learner
+💻 MERN Stack Developer passionate about building scalable web applications  
+🎯 Focusing Mainly on the Frontend Learning as a fresher/Junior Development Learner  
 ⚡ Strong foundation in ** C++, JavaScript, React and SQL**  
 📚 Interested in **Frontend Development, Backend Development & Creative Development**
 
